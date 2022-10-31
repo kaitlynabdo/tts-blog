@@ -1,4 +1,5 @@
 # GPU-enhanced, text-to-speech model training with Red Hat OpenShift Data Science and Coqui TTS
+Authors: Kaitlyn Abdo and Troy Nelson
 
 In this blog, we will be describing the text to speech demo that was showcased at Red Hat Summit 2022. Following an introduction of machine learning in text to speech applications and more in depth information on the model development process, we will show how Red Hat OpenShift Data Science (RHODS) helped in the  development of this demo. 
 
